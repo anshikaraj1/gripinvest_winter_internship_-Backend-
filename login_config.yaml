@@ -1,0 +1,17 @@
+credentials:
+  usernames:
+    anshika:
+      name: Anshika Raj
+      password: abc@123  # You can hash this later
+    admin:
+      name: Admin
+      password: admin123  # You can hash this later
+
+cookie:
+  expiry_days: 3
+  key: some_signature_key  # Use a random string
+  name: some_cookie_name
+
+preauthorized:
+  emails:
+    - anshika@example.com
