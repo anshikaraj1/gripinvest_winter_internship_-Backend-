@@ -4,7 +4,7 @@ This is a machine learning-based project that predicts the **Remaining Useful Li
 
 ---
 
-## 🚀 How to Run This Project
+##  How to Run This Project
 
 ### 1. Clone or Download the Project Folder
 
@@ -18,4 +18,5 @@ Make sure you have these files in one folder:
 ### 2. Install Required Python Libraries
 
 Open **Command Prompt** and navigate to your project folder, then run:
+
 
