@@ -71,8 +71,8 @@ Advanced user experience with themes, animations, NLP integration, and AI-powere
 
 Designed to be scalable and industry-relevant, enabling proactive maintenance decisions and reducing unexpected downtime.
 
-## 🚀 Live Demo
-👉 [Click here to run the app](https://app.py.streamlit.app)
+
+
 
 
 
