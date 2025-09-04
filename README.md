@@ -1,6 +1,6 @@
 # 🔧 Predictive Maintenance Dashboard
 
-This is a machine learning-based project that predicts the **Remaining Useful Life (RUL)** of machinery using sensor data. It also provides a user-friendly **Streamlit dashboard** for visualization and interaction.
+This is full stack project that predicts the **Remaining Useful Life (RUL)** of machinery using sensor data. It also provides a user-friendly **Streamlit dashboard** for visualization and interaction.
 
 ---
 
@@ -70,6 +70,7 @@ Dynamic, animated, and interactive dashboards for predictive insights and visual
 Advanced user experience with themes, animations, NLP integration, and AI-powered voice guidance.
 
 Designed to be scalable and industry-relevant, enabling proactive maintenance decisions and reducing unexpected downtime.
+
 
 
 
